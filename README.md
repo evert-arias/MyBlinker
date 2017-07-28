@@ -259,4 +259,4 @@ myCustomColor.getPackedGRB();
 
 ## Copyright
 
-MyBlinker is provided Copyright © 2017 under [MIT](https://github.com/ariascode/MyBlinker/blob/master/LICENSE.md) License.
+[MIT](https://github.com/ariascode/MyBlinker/blob/master/LICENSE.md) © [Evert Arias](https://ariascode.com)
