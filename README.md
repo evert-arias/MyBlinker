@@ -2,7 +2,7 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
-A LED blinker library for the Arduino platform.
+Blinker library for the Arduino platform.
 
 > **New:** This library now supports **NeoPixel** LEDs.
 
